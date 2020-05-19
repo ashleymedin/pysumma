@@ -8,6 +8,7 @@ dependencies:
   - netcdf4>=1.2.5
   - numpy>=1.11.2
   - dask
+  - dask-jobqueue
   - distributed
   - toolz
   - pytest
@@ -16,6 +17,9 @@ dependencies:
   - shapely
   - seaborn
   - matplotlib
+  - metsim
+  - geoviews
+  - bokeh=1.4.0
   - geopandas
   - jupyter
   - pip
