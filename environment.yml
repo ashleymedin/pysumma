@@ -22,6 +22,7 @@ dependencies:
   - bokeh=1.4.0
   - geopandas
   - jupyter
+  - scikit-learn
   - pip
   - pip:
     - hs_restclient
