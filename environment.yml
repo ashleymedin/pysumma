@@ -1,6 +1,7 @@
 name: pysumma
 channels:
   - conda-forge
+  - phausamann
 dependencies:
   - python>=3.5
   - xarray>=0.11.0
@@ -23,6 +24,7 @@ dependencies:
   - geopandas
   - jupyter
   - scikit-learn
+  - sklearn-xarray
   - pip
   - pip:
     - hs_restclient
