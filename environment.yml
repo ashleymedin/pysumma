@@ -23,6 +23,7 @@ dependencies:
   - geopandas
   - jupyter
   - statsmodels
+  - scikit-learn
   - pip
   - pip:
     - hs_restclient
