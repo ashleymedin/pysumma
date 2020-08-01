@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(name='pysumma',
-      version='2.0.0',
+      version='3.0.0',
       description='A python wrapper for SUMMA',
       url='https://github.com/UW-Hydro/pysumma.git',
       author='YoungDon Choi, Andrew Bennett',
@@ -19,6 +19,7 @@ setup(name='pysumma',
           'hs_restclient',
           'distributed',
           'fiona',
+          'cartopy',
           'netcdf4'
           ],
       include_package_data=True,

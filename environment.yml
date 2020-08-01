@@ -25,5 +25,6 @@ dependencies:
   - statsmodels
   - scikit-learn
   - pip
+  - summa=3.0.0
   - pip:
     - hs_restclient
