@@ -27,4 +27,5 @@ dependencies:
   - pip
   - summa=3.0.0
   - pip:
+    - pyDOE
     - hs_restclient
